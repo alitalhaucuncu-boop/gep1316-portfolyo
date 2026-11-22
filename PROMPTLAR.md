@@ -20,4 +20,4 @@
 | **Tarih ve İmza** | 22.11.2026 – Ali Taha Üçüncü |
 
 ## Kaynakça (APA 7)
-* Google. (2026). *Gemini* [Büyük dil modeli]. https://gemini.google.com
+* Google. (2026). *Gemini* [Büyük dil modeli]. https://gemini.google.com 
