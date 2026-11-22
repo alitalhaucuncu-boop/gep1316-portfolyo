@@ -41,4 +41,4 @@ try:
 # Kullanıcı sayı yerine harf veya sembol girdiyse oluşacak ValueError hatasını yakalıyoruz
 except ValueError:
     # Programın çökmesini engelleyip kullanıcıya ne yapması gerektiğini söylüyoruz
-    print("Hata: Doğum yılı kısmına yalnızca tam sayı (örneğin 2006) girmelisiniz!")
+    print("Hata: Doğum yılı kısmına yalnızca tam sayı (örneğin 2006) girmelisiniz!") 
