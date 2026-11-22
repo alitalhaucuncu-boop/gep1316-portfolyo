@@ -18,4 +18,4 @@ Bu dersten beklentim; kod ezberlemek yerine iş hayatında karşılaştığım t
 - `merhaba.py`: Ad ve doğum yılı alıp yaş hesaplayan, geçersiz/gelecek yıl uyarısı veren ilk Python programım.
 - `cikti_ekran_goruntusu.png`: Programın terminalde çalıştırılmış test çıktıları.
 - [`PROMPTLAR.md`](./PROMPTLAR.md): YZ ile çalışma günlüğüm ve kullanım beyanım.
-- Üniversite sayfası: [Bahçeşehir Üniversitesi](https://bau.edu.tr)
+- Üniversite sayfası: [Bahçeşehir Üniversitesi](https://bau.edu.tr) 
